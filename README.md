@@ -5,12 +5,14 @@
 
 ## Presentation Summary
 
-In this session we'll look at ...
-Topics will include ...
+In this session we'll look at Ansible for configuration management and go over
+some basic concepts in infrastructure-as-code (IaC) tooling. Demos will
+include ad-hoc ansible command line use cases, ansible playbooks, and some
+basic modules you can leverage to automate your workflow.
 
 ## Presentation Slides
 
-* [Presentation Title](dummy-slides.txt)
+* [Ansible for Newbies](netsig-presentation-ansible-for-newbies.pdf)
 
 ## Who is NetSIG?
 
@@ -26,6 +28,7 @@ These presentations are currently hosted online.
 
 ## Where can I find the cheatsheet for this presentation?
 
+* TODO
 * [Template Cheat Sheet](template-cheat-sheet.txt)
 
 ## Contributing
