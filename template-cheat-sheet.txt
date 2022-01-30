@@ -1,5 +1,0 @@
-# Cheat Sheet for NetSIG presentation - Ansible for Newbies
-# For more details:
-# https://github.com/netserf/netsig-presentation-ansible-for-newbies
-
-# TODO
