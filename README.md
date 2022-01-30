@@ -20,16 +20,15 @@ NetSIG is a Special Interest Group focused on computer networking. We're
 affiliated with Victoria Raspberry PiMakers group located in Victoria, Canada.
 These presentations are currently hosted online.
 
+## Where can I find the demo code for this presentation?
+
+* [Demo code](playbooks/)
+
 ## Where can I find more on NETSIG and presentation schedules?
 
 * [Meetup schedule](https://www.meetup.com/Victoria-Raspberry-PiMakers-And-Others/events)
 * [NetSIG site](https://vicpimakers.ca/netsig/)
 * [Victoria PiMakers site](https://vicpimakers.ca/)
-
-## Where can I find the cheatsheet for this presentation?
-
-* TODO
-* [Template Cheat Sheet](template-cheat-sheet.txt)
 
 ## Contributing
 
