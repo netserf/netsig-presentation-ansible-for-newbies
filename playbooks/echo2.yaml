@@ -1,0 +1,6 @@
+---
+- hosts: all
+  tasks:
+  - name: a naive use of variables
+    command:
+      cmd: echo {{ my_greeting }}

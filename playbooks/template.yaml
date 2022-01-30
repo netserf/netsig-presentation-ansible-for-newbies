@@ -1,0 +1,6 @@
+- hosts: all
+  tasks:
+    - name: ansible hello world template example
+      template:
+        src: hello_world.j2
+        dest: /tmp/hello_world.txt
