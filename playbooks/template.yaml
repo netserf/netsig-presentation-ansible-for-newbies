@@ -4,3 +4,4 @@
       template:
         src: hello_world.j2
         dest: /tmp/hello_world.txt
+        mode: 0644

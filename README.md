@@ -1,7 +1,8 @@
 # NetSIG Presentation - [Presentation Title]
 
-[![Actions Status](https://github.com/netserf/template-presentation-repo/workflows/Markdown%20Lint/badge.svg)](https://github.com/netserf/template-presentation-repo/actions)
-[![Actions Status](https://github.com/netserf/template-presentation-repo/workflows/Markdown%20Links/badge.svg)](https://github.com/netserf/template-presentation-repo/actions)
+[![Actions Status](https://github.com/netserf/netsig-presentation-ansible-for-newbies/workflows/Markdown%20Lint/badge.svg)](https://github.com/netserf/netsig-presentation-ansible-for-newbies/actions)
+[![Actions Status](https://github.com/netserf/netsig-presentation-ansible-for-newbies/workflows/Markdown%20Links/badge.svg)](https://github.com/netserf/netsig-presentation-ansible-for-newbies/actions)
+[![Actions Status](https://github.com/netserf/netsig-presentation-ansible-for-newbies/workflows/Ansible%20Lint/badge.svg)](https://github.com/netserf/netsig-presentation-ansible-for-newbies/actions)
 
 ## Presentation Summary
 

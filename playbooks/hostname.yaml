@@ -2,6 +2,5 @@
 - hosts: all
   tasks:
   - name: list the hostname of our inventory
-    command: 
+    command:
       cmd: hostname
-     

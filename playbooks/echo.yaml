@@ -3,6 +3,6 @@
   vars:
     my_greeting: Hello World!
   tasks:
-  - name: a naive use of variables
-    command:
-      cmd: echo {{ my_greeting }}
+    - name: a naive use of variables
+      command:
+        cmd: echo {{ my_greeting }}
