@@ -1,22 +1,22 @@
 ---
 - name: web server deployment
   hosts: knode1
-  become: yes
+  become: true
   become_user: root
   vars:
-    nginx_package_state: latest   # latest|absent 
+    nginx_package_state: latest   # latest|absent
     nginx_service_state: started  # started|stopped
   tasks:
-  - name: nginx package deployed with the latest version
-    package:
-      name: nginx
-      state: "{{ nginx_package_state }}"
-  - name: ensure nginx service is turned on
-    service:
-      name: nginx
-      state: "{{ nginx_service_state }}"
-  - name: check that port 80 is available
-    wait_for:
-      port: 80
-      state: started
-      timeout: 10
+    - name: nginx package deployed with the latest version
+      package:
+        name: nginx
+        state: "{{ nginx_package_state }}"
+    - name: ensure nginx service is turned on
+      service:
+        name: nginx
+        state: "{{ nginx_service_state }}"
+    - name: check that port 80 is available
+      wait_for:
+        port: 80
+        state: started
+        timeout: 10

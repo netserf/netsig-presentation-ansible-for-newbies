@@ -1,6 +1,6 @@
 name: Markdown Links
 
-on: push
+on: [push]
 
 jobs:
   markdown-link-check:
